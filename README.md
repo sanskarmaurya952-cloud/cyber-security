@@ -1,4 +1,4 @@
-# 🛡️ AI Cyber Shield Platform v2.0
+# 🛡️ AI Cyber Shield Platform 
 ### National-Level AI-Powered Cybersecurity Platform
 
 A complete, production-grade cybersecurity platform built for national hackathons, protecting institutions, political organizations, and critical digital infrastructure using cutting-edge AI/ML.
